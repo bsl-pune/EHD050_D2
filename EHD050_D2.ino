@@ -14,6 +14,7 @@
 
 //PLM Training 
 //17092025
+//Authgor - Kishanjee Shukla
 
 #include <SPI.h>
 #include <Wire.h>
