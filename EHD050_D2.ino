@@ -14,7 +14,7 @@
 
 //PLM Training 
 //17092025
-//Authgor - Kishanjee Shukla
+//Author - Kishanjee Shukla
 //Third revision
 
 #include <SPI.h>
